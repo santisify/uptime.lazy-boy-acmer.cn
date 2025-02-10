@@ -12,7 +12,7 @@ sites:
   - name: index
     url: https://lazy-boy-acmer.cn/
   - name: anzhiyu-LB(github)
-    url: https://santisify.github.io/
+    url: https://santissify.github.io/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -29,5 +29,13 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
