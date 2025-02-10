@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 821,
-    "timeDay": 821,
-    "timeWeek": 821,
-    "timeMonth": 821,
-    "timeYear": 821,
+    "time": 768,
+    "timeDay": 768,
+    "timeWeek": 768,
+    "timeMonth": 768,
+    "timeYear": 768,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1147,
-    "timeDay": 1147,
-    "timeWeek": 1147,
-    "timeMonth": 1147,
-    "timeYear": 1147,
+    "time": 1061,
+    "timeDay": 1061,
+    "timeWeek": 1061,
+    "timeMonth": 1061,
+    "timeYear": 1061,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 569,
-    "timeDay": 569,
-    "timeWeek": 569,
-    "timeMonth": 569,
-    "timeYear": 569,
+    "time": 564,
+    "timeDay": 564,
+    "timeWeek": 564,
+    "timeMonth": 564,
+    "timeYear": 564,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 677,
-    "timeDay": 677,
-    "timeWeek": 677,
-    "timeMonth": 677,
-    "timeYear": 677,
+    "time": 665,
+    "timeDay": 665,
+    "timeWeek": 665,
+    "timeMonth": 665,
+    "timeYear": 665,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/santissify.github.io.ico",
     "slug": "anzhiyu-lb-github",
     "status": "down",
-    "uptime": "97.80%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "97.80%",
-    "uptimeMonth": "97.80%",
-    "uptimeYear": "97.80%",
-    "time": 226,
-    "timeDay": 226,
-    "timeWeek": 226,
-    "timeMonth": 226,
-    "timeYear": 226,
+    "uptime": "44.36%",
+    "uptimeDay": "44.36%",
+    "uptimeWeek": "44.36%",
+    "uptimeMonth": "44.36%",
+    "uptimeYear": "44.36%",
+    "time": 165,
+    "timeDay": 165,
+    "timeWeek": 165,
+    "timeMonth": 165,
+    "timeYear": 165,
     "dailyMinutesDown": {
-      "2025-02-10": 0
+      "2025-02-10": 11
     }
   }
 ]
